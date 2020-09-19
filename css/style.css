@@ -1,0 +1,23 @@
+body{
+    background-image: url(../img/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color: white;
+    font-size: 70px;
+}
+.owl-theme .owl-dots .owl-dot span {
+    width: 50px;
+}
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot  span{
+    color: white;
+    font-size: 50px;
+    width: 45px;
+}
+p{
+    color: white;
+    font-size: 22px;
+    font-family: tahoma;
+}
